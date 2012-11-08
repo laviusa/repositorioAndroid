@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.reactiva.nombreaplicacion"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Laura</name>
+
+    <description>
+        Descripcion de la aplicacion. 
+    </description>
+
+    <author href="http://www.reactiva.com.co" email="lauraurrego@reactiva.com.co">
+       Laura Urrego
+    </author>
+
+</widget>
